@@ -8,13 +8,13 @@
 }
 
 .help {
-  color: #666;
   margin: 10px;
   text-align: center;
   font-size: x-large;
   color: black;
   text-align: center;
   text-decoration: burlywood;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 .left {
@@ -47,7 +47,7 @@
   height: 45px;
   margin: 10px;
   font-size: 25px;
-  color: rgb(207, 140, 52);
+  color: black;
 }
 
 .number:focus, .number:active {
@@ -56,9 +56,10 @@
 }
 
 .timer {
-	color: #666;
+	color:crimson;
   margin-top: 3px;
   margin-left: 3px;
+  font: size 2px;;
 }
 
 .game-done .message {

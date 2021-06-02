@@ -21,7 +21,7 @@ const utils = {
           sums.push(candidateSum);
         }
       }
-    }
+    } 
     return sums[utils.random(0, sums.length - 1)];
   },
 };

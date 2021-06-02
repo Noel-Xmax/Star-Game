@@ -11,6 +11,10 @@
   color: #666;
   margin: 10px;
   text-align: center;
+  font-size: x-large;
+  color: black;
+  text-align: center;
+  text-decoration: burlywood;
 }
 
 .left {
@@ -37,12 +41,13 @@
 }
 
 .number {
-  background-color: #eee;
+  background-color:grey;
   border: thin solid #ddd;
   width: 45px;
   height: 45px;
   margin: 10px;
   font-size: 25px;
+  color: rgb(207, 140, 52);
 }
 
 .number:focus, .number:active {
@@ -60,4 +65,7 @@
   font-size: 250%;
   font-weight: bold;
   margin: 15px;
+}
+.body{
+  background-color:antiquewhite;
 }

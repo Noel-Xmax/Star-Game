@@ -9,7 +9,7 @@ const PlayNumber = props => (
     {props.number}
   </button>
 );
-// Color Theme
+
 const colors = {
   available: 'lightgray',
   used: 'lightgreen',

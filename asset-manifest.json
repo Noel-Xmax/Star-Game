@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Noel-Xmax/Star-Game/static/css/main.c6d7275d.chunk.css",
+    "main.js": "/Noel-Xmax/Star-Game/static/js/main.ed5938fe.chunk.js",
+    "main.js.map": "/Noel-Xmax/Star-Game/static/js/main.ed5938fe.chunk.js.map",
+    "runtime-main.js": "/Noel-Xmax/Star-Game/static/js/runtime-main.d4ccda98.js",
+    "runtime-main.js.map": "/Noel-Xmax/Star-Game/static/js/runtime-main.d4ccda98.js.map",
+    "static/js/2.cf89a0d6.chunk.js": "/Noel-Xmax/Star-Game/static/js/2.cf89a0d6.chunk.js",
+    "static/js/2.cf89a0d6.chunk.js.map": "/Noel-Xmax/Star-Game/static/js/2.cf89a0d6.chunk.js.map",
+    "static/js/3.8cdfc188.chunk.js": "/Noel-Xmax/Star-Game/static/js/3.8cdfc188.chunk.js",
+    "static/js/3.8cdfc188.chunk.js.map": "/Noel-Xmax/Star-Game/static/js/3.8cdfc188.chunk.js.map",
+    "index.html": "/Noel-Xmax/Star-Game/index.html",
+    "static/css/main.c6d7275d.chunk.css.map": "/Noel-Xmax/Star-Game/static/css/main.c6d7275d.chunk.css.map",
+    "static/js/2.cf89a0d6.chunk.js.LICENSE.txt": "/Noel-Xmax/Star-Game/static/js/2.cf89a0d6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4ccda98.js",
+    "static/js/2.cf89a0d6.chunk.js",
+    "static/css/main.c6d7275d.chunk.css",
+    "static/js/main.ed5938fe.chunk.js"
+  ]
+}

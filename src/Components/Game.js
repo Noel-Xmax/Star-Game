@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import utils from "../Math.utils";
 import StarsDisplay from "./Components/StarsDisplay";
 import PlayNumber from "./Components/PlayNumber";
-import PlayAgain from "./Components/PlayAgain";
+import PlayAgain from "./PlayAgain";
 
 const useGameState = timeLimit => {
   const [stars, setStars] = useState(utils.random(1, 9));
